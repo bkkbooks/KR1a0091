@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1a0091/WYG/v1/juan/3
+seq: 3
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0091_WYG_003-1a, image: WYG0028/WYG0028-0044d.png}
+body:
+  text: 周易傳義大全明胡廣等撰易五贊筮儀綱領
+  hash: sha256:186ec868d9a9e50dbc97f04d39a3de016fd5077afca38628a0842beac9054ad5
+metadata:
+  title: 周易傳義大全
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:57:20.856797'
+  source:
+    repository: kanripo
+    path: KR1a0091/KR1a0091_003.txt
+hash: sha256:c2dc065d7f693ba7841b4f36c7c2ec367feff5e3c6f0761ba7770d73cfaf99e7
